@@ -4,6 +4,8 @@ An AI-powered web application that allows users to upload **PDFs, audio, or vide
 
 The system generates summaries and answers user questions using the uploaded content as context.
 
+Video link:-  https://drive.google.com/file/d/1z9aUh8x-JGK7ZGT2zKPcwzSkLAnLuD2-/view?usp=sharing
+
 ---
 
 ## 🚀 Features
